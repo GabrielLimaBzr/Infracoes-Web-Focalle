@@ -1,0 +1,17 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  max-height: 30px;
+  background-color: rgb(224, 224, 224);
+}
+
+.footer .credit {
+  font-weight: 200;
+  font-size: 1rem;
+}
+
+.footer .credit .by {
+  font-weight: bold;
+}
