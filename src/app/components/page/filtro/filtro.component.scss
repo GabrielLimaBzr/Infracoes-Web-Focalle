@@ -1,0 +1,35 @@
+.filter{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  .form{
+
+    .form-field{
+      margin-right: 1rem;
+    }
+  }
+
+  .buttons-filter{
+    display: flex;
+    margin: 0;
+
+    button{
+      margin: 5px;
+      border-radius: 3rem;
+      width: 130px;
+    }
+  }
+
+
+}
+
+.table-content {
+  width: 100%;
+  margin-bottom: 30px !important; 
+  margin-top: 1rem;
+
+  table{
+    width: 100%;
+  }
+}
